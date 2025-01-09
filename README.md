@@ -1,4 +1,4 @@
-# hp-Deathly-Hallows-Part-1-Fix
+# Harry-Potter-and-the-Deathly-Hallows-Part-1-PC-Fix
 
 This is the Harry Potter and the Deathly Hallows Part 1 d3d9 wrapper.
 
