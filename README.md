@@ -24,7 +24,7 @@ https://discord.gg/eVJ7sQH7Cc
 
 brought to you by Fix Enhancers 
 
-[this fix as it stands is a beta and the game is still being looked into, we are looking into capping the menus to 30fps so they dont run so fast. Future updates will be posted so keep an eye out] 
+https://fixenhancers.wixsite.com/fix-enhancers
 
 Team: 
 
