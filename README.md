@@ -1,5 +1,7 @@
 # Harry-Potter-and-the-Deathly-Hallows-Part-1-PC-Fix
 
+![hp7](https://github.com/user-attachments/assets/8fc4c367-990a-401a-b3c4-b4c6f76476a6)
+
 This is the Harry Potter and the Deathly Hallows Part 1 d3d9 wrapper.
 
 IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD
