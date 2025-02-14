@@ -2,36 +2,47 @@
 
 ![hp7](https://github.com/user-attachments/assets/8fc4c367-990a-401a-b3c4-b4c6f76476a6)
 
-This is the Harry Potter and the Deathly Hallows Part 1 d3d9 wrapper.
+# Requirements before using fix
+IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD BEFORE USING THE FIX.
 
-IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD
+Watch the official fix guide video here on how to install the game and use the fix - https://www.youtube.com/watch?v=B1HhMPvchx0&list=PLIkBjPwB07CTqLWUmpo1Pel6p7Pc4RlOZ&index=10&t=207s 
 
-Please see this youtube video for an in depth tutorial on the fix  
+# Instructions
+Go to releases and download the latest of the following fixes hp7fix.zip, hp7fixNOTOGGLE.zip, hp7fixOriginalFOV.zip or hp7fixOriginalFovNOTOGGLE.zip, depending on which version you want to use.
 
-https://www.youtube.com/watch?v=B1HhMPvchx0&t=16s
+For each of the fixes extract the d3d9.dll and d3d9.ini files into your game folder next to the hp7.exe file and you are good to go!
 
-simply go to releases download hp7fix.zip put the d3d9.dll and d3d9.ini into your game folder next to the game exe and your good to go 
+You can edit the settings you wish to use in the d3d9.ini file.
 
-FOV is edited so that its not so zoomed in with this fix
+# Aspect Ratio
+The default for aspect ratio is (0) which is 16:9, choose out of the other aspect ratios available to use by changing (0) to the number that’s correct for you.
 
-you can edit settings in d3d9.ini 
+# FPS
+The default for FPS is (60) you can change it as you wish or fully uncap it with (0) with the FPSLimit option in the d3d9.ini file.
 
-Default aspect ratio is 0 which is (16:9)
+There are two versions of the FPS fix to use. The hp7fixNOTOGGLE.zip you just set an FPS you wish to use, and the game will run at that FPS during gameplay. The menus will be sped up, however, cutscenes will not be affected and remain at correct speed.
 
-Default for FPS cap is 60 you can change it as you like or uncap with 0 
+The other fix hp7fix.zip you set the FPS you wish to use and then in game you use the toggle key ‘9’ to toggle between your chosen FPS and the original games 30fps.
 
-If you have any issues please go to discord for help 
+# FOV
+There are two versions of the FOV fix to use. The hp7fix.zip and hp7fixNOTOGGLE.zip both have a set zoomed out FOV on by default.
 
-https://discord.gg/eVJ7sQH7Cc
+The other fixes hp7fixOriginalFOV.zip and hp7fixOriginalFovNOTOGGLE.zip both use the original games FOV by default.
 
-brought to you by Fix Enhancers 
+Choose the fix that applies to how you wish to play the game.
 
-https://fixenhancers.wixsite.com/fix-enhancers
+# Vote to see the game return via GOG Dreamlist
+If you are interested in potentially seeing this game easily available to purchase and use today then go and vote on the games GOG Dreamlist to help make this become a reality, you can vote for the game here and write a message about the game if you wish – https://www.gog.com/dreamlist/game/harry-potter-and-the-deathly-hallows-part-1-2010 
 
-Team: 
+# Issues/Problems
+If you have any issues, with the fixes then please go to discord for help linked below. https://discord.gg/eVJ7sQH7Cc
 
-Chip, JokerAlex21, Blankname.
+Credits
 
-credit to Elisha Riedlinger for the base wrapper and 13 AG.
+Credit to Elisha Riedlinger for the base wrapper and ThirteenAG.
 
-credit to JagoTu for finding fps.
+Brought to you by Fix Enhancers - https://fixenhancers.wixsite.com/fix-enhancers
+
+Team:
+
+Chip, JokerAlex21 and Blankname.
