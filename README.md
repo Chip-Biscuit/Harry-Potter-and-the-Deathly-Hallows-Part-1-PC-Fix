@@ -5,7 +5,15 @@
 # Requirements before using fix
 IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD BEFORE USING THE FIX.
 
-Watch the official fix guide video here on how to install the game and use the fix - https://www.youtube.com/watch?v=B1HhMPvchx0&list=PLIkBjPwB07CTqLWUmpo1Pel6p7Pc4RlOZ&index=10&t=207s 
+# Official video guide
+
+Watch the official fix guide video here on how to install the game and use the fix
+
+<a href="https://www.youtube.com/watch?v=B1HhMPvchx0&list=PLIkBjPwB07CTqLWUmpo1Pel6p7Pc4RlOZ&index=10&t=207s">
+  <img src="https://github.com/user-attachments/assets/4d22c697-b0d5-41f9-93bb-94df534ef06e" alt="hp7" width="480" height="360">
+</a><br>
+
+###### <i>Click the image above to watch the video</i>
 
 # Instructions
 Go to releases and download the latest of the following fixes hp7fix.zip, hp7fixNOTOGGLE.zip, hp7fixOriginalFOV.zip or hp7fixOriginalFovNOTOGGLE.zip, depending on which version you want to use.
